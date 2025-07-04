@@ -13,9 +13,11 @@ PASSWD_RELACIONAMENTO=
 
 
 CREDENTIALS_GOOGLE='credentials/credentials.json'
+
 AU_GOOGLE='credentials/authorized_user.json'
 
 ID_SHARED_DRIVE_GROWTH=0AFFpUVLt225rUk9PVA
+
 ID_FOLDER_DATA_SCIENCE_HUB_DATA=1_fyNuVMAJ8iuB3-bmB85zHCpP5TwVN4-
 
 DATA_PATH='data/'
