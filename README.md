@@ -5,9 +5,12 @@
 
 ### 1. Configure um arquivo .env na pasta principal  com os acessos abaixo:
 
-HOST_RELACIONAMENTO= 
-USER_RELACIONAMENTO= 
-PASSWD_RELACIONAMENTO=  
+HOST_RELACIONAMENTO=
+
+USER_RELACIONAMENTO=
+
+PASSWD_RELACIONAMENTO= 
+
 
 CREDENTIALS_GOOGLE='credentials/credentials.json'
 AU_GOOGLE='credentials/authorized_user.json'
