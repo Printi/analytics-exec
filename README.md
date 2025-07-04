@@ -5,7 +5,7 @@
 
 ### 1. Configure um arquivo .env na pasta principal  com os acessos abaixo:
 
-HOST_RELACIONAMENTO
+HOST_RELACIONAMENTO=
 USER_RELACIONAMENTO=
 PASSWD_RELACIONAMENTO= 
 
